@@ -21,7 +21,7 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Joao-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+  <img align="center" alt="Joao-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="Joao-G" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   <img align="center" alt="Joao-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" alt="Joao-Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
