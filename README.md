@@ -1,4 +1,4 @@
-## Olá eu sou João Pedro Pereira
+## Olá, eu sou João Pedro Pereira
 
 - 🔭 Estudante de Ciência da Computação - Universidade Federal de São Carlos (2019 - 2022)
 - 🌱 Estudando Python
